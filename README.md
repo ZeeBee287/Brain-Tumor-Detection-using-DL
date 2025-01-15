@@ -24,7 +24,7 @@ To prepare the data for analysis:
 
 ### Data Augmentation
 Applied to the training data to increase diversity:
-- Rotations (±30∘±30^\circ)
+- Rotations (±30∘)
 - Shearing (0.2)
 - Zoom (0.05)
 - Horizontal flipping
