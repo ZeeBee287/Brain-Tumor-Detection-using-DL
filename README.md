@@ -19,7 +19,7 @@ The dataset used in this project was sourced from Kaggle. It comprises 3,264 MRI
 ### Preprocessing
 To prepare the data for analysis:
 1.	Cropping: Removed irrelevant spaces to emphasize critical features.
-2.	Resizing: Standardized image dimensions to 225×225×3225 \times 225 \times 3.
+2.	Resizing: Standardized image dimensions to 225×225×3.
 3.	Normalization: Scaled pixel values between 0 and 1 to improve model convergence.
 
 ### Data Augmentation
