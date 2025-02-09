@@ -1,5 +1,5 @@
 # Python_Project_Github
-## Brain Tumor Detection Using Deep Learning by Alishba Zulfiqar, Bushra Tanveer, and Zahra Batool
+## Brain Tumor Detection Using Deep Learning
 ---
 ### Motivation
 Brain tumors pose a significant global health challenge, impacting individuals across all age groups. Early and precise diagnosis is critical for effective treatment planning and enhancing patient outcomes. The variability in tumor appearance and the complexity of brain structures make manual examination prone to errors. The availability of advanced datasets and the opportunity to contribute to healthcare and interdisciplinary research inspired this project.
