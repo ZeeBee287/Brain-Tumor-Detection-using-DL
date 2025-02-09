@@ -1,4 +1,3 @@
-# Python_Project_Github
 ## Brain Tumor Detection Using Deep Learning
 ---
 ### Motivation
