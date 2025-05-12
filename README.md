@@ -66,3 +66,9 @@ This project highlights the potential of **deep learning**, especially **Efficie
 * 🩺 Increasing diagnostic accuracy
 * 🧑‍⚕️ Reducing workload
 * 🕒 Accelerating treatment timelines
+
+## Contributors
+
+- **Alishba Zulfiqar**
+- **Bushra Tanveer**
+- **Zahra Batool**
